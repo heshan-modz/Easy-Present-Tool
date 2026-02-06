@@ -62,14 +62,10 @@
 ## 👨‍💻 Developed By
 **HeshaN ModZ**
 
-<p align="left">
-  <a href="https://github.com/HeshaNModZ">
-    <img src="https://img.shields.io/badge/GitHub-HeshaNModZ-black?style=flat&logo=github" alt="GitHub">
-  </a>
-</p>
 
 ---
 <p align="center">
   Give a ⭐ if this project helped you! <br>
   මෙම ව්‍යාපෘතිය ඔබට ප්‍රයෝජනවත් නම් Star එකක් ලබා දී සහය වන්න!
 </p>
+
