@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <a href="[YOUR_DOWNLOAD_LINK_HERE](https://drive.usercontent.google.com/download?id=1MfQwA27JH0DZaYv3nBi_kN7UTVRVI6Kj&export=download&authuser=1&confirm=t&uuid=f5e4d557-ae67-4929-af09-4c699a4a6610&at=APcXIO3hyrSw7MGt8GdzZkPiaeBf%3A1770353654613)">
+  <a href="https://drive.usercontent.google.com/download?id=1MfQwA27JH0DZaYv3nBi_kN7UTVRVI6Kj&export=download&authuser=1&confirm=t&uuid=f5e4d557-ae67-4929-af09-4c699a4a6610&at=APcXIO3hyrSw7MGt8GdzZkPiaeBf%3A1770353654613">
     <img src="https://img.shields.io/badge/DOWNLOAD-NOW-brightgreen?style=for-the-badge&logo=icloud&logoColor=white" alt="Download Button" height="50">
   </a>
 </p>
@@ -62,10 +62,14 @@
 ## 👨‍💻 Developed By
 **HeshaN ModZ**
 
+<p align="left">
+  <a href="https://github.com/HeshaNModZ">
+    <img src="https://img.shields.io/badge/GitHub-HeshaNModZ-black?style=flat&logo=github" alt="GitHub">
+  </a>
+</p>
 
 ---
 <p align="center">
   Give a ⭐ if this project helped you! <br>
   මෙම ව්‍යාපෘතිය ඔබට ප්‍රයෝජනවත් නම් Star එකක් ලබා දී සහය වන්න!
 </p>
-
