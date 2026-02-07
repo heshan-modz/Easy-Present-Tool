@@ -57,6 +57,7 @@
 2. **Privacy:** Hide unwanted windows with one click.
 3. **Smooth Control:** Use hotkeys to manage your presentation flow without a mouse.
 
+YouTube Tutorial Video : https://youtu.be/Y-QGig1Rb3Q?si=O8_n8Nr1So7-yYdx
 ---
 
 ## 👨‍💻 Developed By
@@ -68,4 +69,5 @@
   Give a ⭐ if this project helped you! <br>
   මෙම ව්‍යාපෘතිය ඔබට ප්‍රයෝජනවත් නම් Star එකක් ලබා දී සහය වන්න!
 </p>
+
 
